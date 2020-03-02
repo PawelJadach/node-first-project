@@ -1,0 +1,128 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Natalia",
+    "lastName": "Kowalski",
+    "age": 36
+  },
+  {
+    "gender": "M",
+    "firstName": "Janusz",
+    "lastName": "Nowak",
+    "age": 37
+  },
+  {
+    "gender": "F",
+    "firstName": "Ala",
+    "lastName": "Kowalski",
+    "age": 38
+  },
+  {
+    "gender": "F",
+    "firstName": "Roksana",
+    "lastName": "Lewandowski",
+    "age": 32
+  },
+  {
+    "gender": "F",
+    "firstName": "Kamila",
+    "lastName": "Xzy",
+    "age": 44
+  },
+  {
+    "gender": "F",
+    "firstName": "Klaudia",
+    "lastName": "Nowak",
+    "age": 36
+  },
+  {
+    "gender": "M",
+    "firstName": "Krzysztof",
+    "lastName": "Xzy",
+    "age": 61
+  },
+  {
+    "gender": "M",
+    "firstName": "Janusz",
+    "lastName": "Xzy",
+    "age": 23
+  },
+  {
+    "gender": "M",
+    "firstName": "Krzysztof",
+    "lastName": "Kowalski",
+    "age": 55
+  },
+  {
+    "gender": "M",
+    "firstName": "Andrzej",
+    "lastName": "Lewandowski",
+    "age": 51
+  },
+  {
+    "gender": "M",
+    "firstName": "Janusz",
+    "lastName": "Nowak",
+    "age": 58
+  },
+  {
+    "gender": "F",
+    "firstName": "Klaudia",
+    "lastName": "Xzy",
+    "age": 31
+  },
+  {
+    "gender": "M",
+    "firstName": "Krzysztof",
+    "lastName": "Nowak",
+    "age": 55
+  },
+  {
+    "gender": "F",
+    "firstName": "Paulina",
+    "lastName": "Lewandowski",
+    "age": 77
+  },
+  {
+    "gender": "F",
+    "firstName": "Ula",
+    "lastName": "Xzy",
+    "age": 38
+  },
+  {
+    "gender": "F",
+    "firstName": "Roksana",
+    "lastName": "Lewandowski",
+    "age": 22
+  },
+  {
+    "gender": "M",
+    "firstName": "Janusz",
+    "lastName": "Nowak",
+    "age": 30
+  },
+  {
+    "gender": "M",
+    "firstName": "Łukasz",
+    "lastName": "Xzy",
+    "age": 30
+  },
+  {
+    "gender": "M",
+    "firstName": "Mateusz",
+    "lastName": "Kowalski",
+    "age": 42
+  },
+  {
+    "gender": "M",
+    "firstName": "Andrzej",
+    "lastName": "Lewandowski",
+    "age": 51
+  },
+  {
+    "gender": "M",
+    "firstName": "Maurycy",
+    "lastName": "Xzy",
+    "age": 34
+  }
+]
